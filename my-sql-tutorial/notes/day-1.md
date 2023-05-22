@@ -1,7 +1,10 @@
 # Day 1 | Databases [AH-CODING]
 <a href="https://www.youtube.com/@AHCoding" target="_blank">Visit Youtube</a>
 ```
-Short Description: This is the first document that you guys are getting through my first video on MySQL on Youtube, feel free to read all the things that were tought on youtube and make sure to practice these codes on your own...
+Short Description: This is the first document that you guys are getting
+through my first video on MySQL on Youtube, feel free to read all the
+things that were tought on youtube and make sure to practice these codes
+on your own...
 ```
 ### _Creating Database_
 Creating a Database is really easy, we only need to write
